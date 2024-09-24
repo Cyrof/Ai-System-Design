@@ -5,3 +5,7 @@ Knife_vs_Pistol/
 detected_imgs/*
 datasets
 fine-tune.yaml
+runs/
+
+# Allowed files 
+!yolo_fine_tuned.pt
