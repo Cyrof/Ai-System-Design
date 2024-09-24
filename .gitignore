@@ -1,2 +1,7 @@
 ai_tut/
 *.ipynb_checkpoints
+*.pt
+Knife_vs_Pistol/
+detected_imgs/*
+datasets
+fine-tune.yaml
